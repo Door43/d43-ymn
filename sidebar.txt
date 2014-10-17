@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ymn:home|Door43 (ymn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ymn|d43-ymn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ymn/archive/master.zip|d43-ymn.zip]]
+
+**Recent Changes**
+{{changes>ns = ymn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ymn|Ethnologue data]]
+
